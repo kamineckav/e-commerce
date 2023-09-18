@@ -1,0 +1,14 @@
+:root {
+  --first-cl: #101828;
+  --second-cl: #475467;
+  --light-gray-cl: #969696;
+  --gray-cl: #98a2b3;
+  --dark-gray-cl: #797979;
+  --accent-cl: #4bb4ff;
+  --light-cl: #fff;
+}
+
+body {
+  background-color: var(--light-cl), #fff;
+  font-family: 'Work Sans', sans-serif;
+}
